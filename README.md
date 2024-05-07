@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can reach me at sushmithaasivakumar01@gmail.com!\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1PHbLr5AasiTUHnMBaV3ufZYYd-u8lVgy/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/SushmithaaSivakumar/Sushmithaa-Sivakumar/main/python.webp" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
