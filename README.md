@@ -1,6 +1,6 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi there! I'm Sushmithaa Sivakumar</h2>
+<img alt="Night Coding" src="https://github.com/SushmithaaSivakumar/Sushmithaa-Sivakumar/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.jpg" width='1000' align="left"/><h2>Hi there! I'm Sushmithaa Sivakumar</h2>
 
 <!-- ## 👋 &nbsp;Hi there! I'm Sushmithaa Sivakumar -->
 
